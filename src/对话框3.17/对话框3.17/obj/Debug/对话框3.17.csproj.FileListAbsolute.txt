@@ -1,0 +1,10 @@
+C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\bin\Debug\对话框3.17.exe.config
+C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\bin\Debug\对话框3.17.exe
+C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\bin\Debug\对话框3.17.pdb
+C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\obj\Debug\对话框3.17.csproj.AssemblyReference.cache
+C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\obj\Debug\对话框3._17.Form1.resources
+C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\obj\Debug\对话框3._17.Properties.Resources.resources
+C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\obj\Debug\对话框3.17.csproj.GenerateResource.cache
+C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\obj\Debug\对话框3.17.csproj.CoreCompileInputs.cache
+C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\obj\Debug\对话框3.17.exe
+C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\obj\Debug\对话框3.17.pdb
