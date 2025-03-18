@@ -8,3 +8,13 @@ C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\obj\Debug\对话�
 C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\obj\Debug\对话框3.17.csproj.CoreCompileInputs.cache
 C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\obj\Debug\对话框3.17.exe
 C:\Users\Silergytest\source\repos\对话框3.17\对话框3.17\obj\Debug\对话框3.17.pdb
+D:\Git Repo\e-Learning\src\对话框3.17\对话框3.17\bin\Debug\对话框3.17.exe.config
+D:\Git Repo\e-Learning\src\对话框3.17\对话框3.17\bin\Debug\对话框3.17.exe
+D:\Git Repo\e-Learning\src\对话框3.17\对话框3.17\bin\Debug\对话框3.17.pdb
+D:\Git Repo\e-Learning\src\对话框3.17\对话框3.17\obj\Debug\对话框3.17.csproj.AssemblyReference.cache
+D:\Git Repo\e-Learning\src\对话框3.17\对话框3.17\obj\Debug\对话框3._17.Form1.resources
+D:\Git Repo\e-Learning\src\对话框3.17\对话框3.17\obj\Debug\对话框3._17.Properties.Resources.resources
+D:\Git Repo\e-Learning\src\对话框3.17\对话框3.17\obj\Debug\对话框3.17.csproj.GenerateResource.cache
+D:\Git Repo\e-Learning\src\对话框3.17\对话框3.17\obj\Debug\对话框3.17.csproj.CoreCompileInputs.cache
+D:\Git Repo\e-Learning\src\对话框3.17\对话框3.17\obj\Debug\对话框3.17.exe
+D:\Git Repo\e-Learning\src\对话框3.17\对话框3.17\obj\Debug\对话框3.17.pdb

@@ -1,14 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Silergytest\\source\\repos\\\u5BF9\u8BDD\u68463.17\\",
+  "WorkspaceRootPath": "D:\\Git Repo\\e-Learning\\src\\\u5BF9\u8BDD\u68463.17\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEE4F10B-1A58-4197-B615-A9D0ADA4B919}|\u5BF9\u8BDD\u68463.17\\\u5BF9\u8BDD\u68463.17.csproj|c:\\users\\silergytest\\source\\repos\\\u5BF9\u8BDD\u68463.17\\\u5BF9\u8BDD\u68463.17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE4F10B-1A58-4197-B615-A9D0ADA4B919}|\u5BF9\u8BDD\u68463.17\\\u5BF9\u8BDD\u68463.17.csproj|solutionrelative:\u5BF9\u8BDD\u68463.17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE4F10B-1A58-4197-B615-A9D0ADA4B919}|\u5BF9\u8BDD\u68463.17\\\u5BF9\u8BDD\u68463.17.csproj|d:\\git repo\\e-learning\\src\\\u5BF9\u8BDD\u68463.18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE4F10B-1A58-4197-B615-A9D0ADA4B919}|\u5BF9\u8BDD\u68463.17\\\u5BF9\u8BDD\u68463.17.csproj|C:\\Users\\Silergytest\\source\\repos\\\u5BF9\u8BDD\u68463.17\\\u5BF9\u8BDD\u68463.17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEE4F10B-1A58-4197-B615-A9D0ADA4B919}|\u5BF9\u8BDD\u68463.17\\\u5BF9\u8BDD\u68463.17.csproj|solutionrelative:\u5BF9\u8BDD\u68463.17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DEE4F10B-1A58-4197-B615-A9D0ADA4B919}|\u5BF9\u8BDD\u68463.17\\\u5BF9\u8BDD\u68463.17.csproj|d:\\git repo\\e-learning\\src\\\u5BF9\u8BDD\u68463.18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +21,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Silergytest\\source\\repos\\\u5BF9\u8BDD\u68463.17\\\u5BF9\u8BDD\u68463.17\\Form1.cs",
-              "RelativeDocumentMoniker": "\u5BF9\u8BDD\u68463.17\\Form1.cs",
-              "ToolTip": "C:\\Users\\Silergytest\\source\\repos\\\u5BF9\u8BDD\u68463.17\\\u5BF9\u8BDD\u68463.17\\Form1.cs",
-              "RelativeToolTip": "\u5BF9\u8BDD\u68463.17\\Form1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAjwBAAAAAiAAAAAAAAAA==",
+              "Title": "\u5BF9\u8BDD\u68463.18.cs",
+              "DocumentMoniker": "D:\\Git Repo\\e-Learning\\src\\\u5BF9\u8BDD\u68463.18.cs",
+              "RelativeDocumentMoniker": "..\\\u5BF9\u8BDD\u68463.18.cs",
+              "ToolTip": "D:\\Git Repo\\e-Learning\\src\\\u5BF9\u8BDD\u68463.18.cs",
+              "RelativeToolTip": "..\\\u5BF9\u8BDD\u68463.18.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T09:33:14.733Z",
               "EditorCaption": ""
@@ -36,14 +34,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\Silergytest\\source\\repos\\\u5BF9\u8BDD\u68463.17\\\u5BF9\u8BDD\u68463.17\\Form1.cs",
-              "RelativeDocumentMoniker": "\u5BF9\u8BDD\u68463.17\\Form1.cs",
-              "ToolTip": "C:\\Users\\Silergytest\\source\\repos\\\u5BF9\u8BDD\u68463.17\\\u5BF9\u8BDD\u68463.17\\Form1.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "\u5BF9\u8BDD\u68463.17\\Form1.cs [\u8BBE\u8BA1]",
+              "Title": "\u5BF9\u8BDD\u68463.18.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Git Repo\\e-Learning\\src\\\u5BF9\u8BDD\u68463.18.cs",
+              "RelativeDocumentMoniker": "..\\\u5BF9\u8BDD\u68463.18.cs",
+              "ToolTip": "D:\\Git Repo\\e-Learning\\src\\\u5BF9\u8BDD\u68463.18.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\\u5BF9\u8BDD\u68463.18.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:32:09.345Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2025-03-17T09:32:09.345Z"
             }
           ]
         }

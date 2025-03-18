@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace 对话框3._17
 {
-    public partial class Form1 : Form
+    public partial class Form1: Form
     {
         public Form1()
         {
@@ -34,43 +34,52 @@ namespace 对话框3._17
             SaveFileDialog saveFileDialog = new SaveFileDialog();
             saveFileDialog.Filter = "Text Files (*.txt)|*.txt|All Files(*.*)|*.*";
             saveFileDialog.Title = "This is a saveFileDialog";
-
             if (saveFileDialog.ShowDialog() == DialogResult.OK)
             {
                 string filePath = saveFileDialog.FileName;
-                Console.WriteLine("ya~li~ma~si~nei");
+                MessageBox.Show("保存成功" + filePath);
             }
+
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             FontDialog fontDialog = new FontDialog();
-            if (fontDialog.ShowDialog() == DialogResult)
+            if (fontDialog.ShowDialog()==DialogResult.OK)
             {
-                Font SelectedFont = fontDialog.Font;
-                this.Font = fontDialog.Font;
+                Font selectedFont = fontDialog.Font;
+                this.Font = selectedFont;
             }
-
         }
 
         private void button4_Click(object sender, EventArgs e)
-        {
+        {  // 改变大板的背景颜色
+           // ColorDialog colorDialog = new ColorDialog();
+           // if(colorDialog.ShowDialog()==DialogResult.OK)
+           // {
+           //     Color selectedColor = colorDialog.Color;
+           //     this.BackColor = selectedColor;
+           //      MessageBox.Show("显示的颜色是"+BackColor.Name);
+           // }
             ColorDialog colorDialog = new ColorDialog();
-            if (colorDialog.ShowDialog() == DialogResult.OK)
+            if(colorDialog.ShowDialog()==DialogResult.OK)
             {
                 Color selectedColor = colorDialog.Color;
-                this.BackColor = selectedColor;
+                button4.BackColor = selectedColor;
+                //button4.ForeColor = selectedColor;
+
             }
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            FontDialog fontDialog = new FontDialog();
-            if (fontDialog.ShowDialog() == DialogResult.OK)
-               {
-                Font selectedFont = fontDialog.Font;
-                this.Font = selectedFont;
-               }
+            FolderBrowserDialog folderBrowserDialog = new FolderBrowserDialog();
+            folderBrowserDialog.Description = "雷猴啊";
+            if(folderBrowserDialog.ShowDialog()==DialogResult.OK)
+            {
+                string selectedFolder = folderBrowserDialog.SelectedPath;
+                MessageBox.Show("选择了"+selectedFolder);
+            }
         }
     }
-    }
+}
