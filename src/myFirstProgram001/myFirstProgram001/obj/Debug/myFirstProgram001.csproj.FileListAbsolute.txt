@@ -1,0 +1,10 @@
+C:\Users\Silergytest\source\repos\myFirstProgram001\myFirstProgram001\bin\Debug\myFirstProgram001.exe.config
+C:\Users\Silergytest\source\repos\myFirstProgram001\myFirstProgram001\bin\Debug\myFirstProgram001.exe
+C:\Users\Silergytest\source\repos\myFirstProgram001\myFirstProgram001\bin\Debug\myFirstProgram001.pdb
+C:\Users\Silergytest\source\repos\myFirstProgram001\myFirstProgram001\obj\Debug\myFirstProgram001.csproj.AssemblyReference.cache
+C:\Users\Silergytest\source\repos\myFirstProgram001\myFirstProgram001\obj\Debug\myFirstProgram001.Form1.resources
+C:\Users\Silergytest\source\repos\myFirstProgram001\myFirstProgram001\obj\Debug\myFirstProgram001.Properties.Resources.resources
+C:\Users\Silergytest\source\repos\myFirstProgram001\myFirstProgram001\obj\Debug\myFirstProgram001.csproj.GenerateResource.cache
+C:\Users\Silergytest\source\repos\myFirstProgram001\myFirstProgram001\obj\Debug\myFirstProgram001.csproj.CoreCompileInputs.cache
+C:\Users\Silergytest\source\repos\myFirstProgram001\myFirstProgram001\obj\Debug\myFirstProgram001.exe
+C:\Users\Silergytest\source\repos\myFirstProgram001\myFirstProgram001\obj\Debug\myFirstProgram001.pdb

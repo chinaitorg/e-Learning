@@ -1,0 +1,10 @@
+C:\Users\Silergytest\source\repos\Buttontest\Buttontest\bin\Debug\Buttontest.exe.config
+C:\Users\Silergytest\source\repos\Buttontest\Buttontest\bin\Debug\Buttontest.exe
+C:\Users\Silergytest\source\repos\Buttontest\Buttontest\bin\Debug\Buttontest.pdb
+C:\Users\Silergytest\source\repos\Buttontest\Buttontest\obj\Debug\Buttontest.csproj.AssemblyReference.cache
+C:\Users\Silergytest\source\repos\Buttontest\Buttontest\obj\Debug\Buttontest.Form1.resources
+C:\Users\Silergytest\source\repos\Buttontest\Buttontest\obj\Debug\Buttontest.Properties.Resources.resources
+C:\Users\Silergytest\source\repos\Buttontest\Buttontest\obj\Debug\Buttontest.csproj.GenerateResource.cache
+C:\Users\Silergytest\source\repos\Buttontest\Buttontest\obj\Debug\Buttontest.csproj.CoreCompileInputs.cache
+C:\Users\Silergytest\source\repos\Buttontest\Buttontest\obj\Debug\Buttontest.exe
+C:\Users\Silergytest\source\repos\Buttontest\Buttontest\obj\Debug\Buttontest.pdb

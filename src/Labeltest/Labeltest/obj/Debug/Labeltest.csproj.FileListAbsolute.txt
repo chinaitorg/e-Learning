@@ -1,0 +1,10 @@
+C:\Users\Silergytest\source\repos\Labeltest\Labeltest\bin\Debug\Labeltest.exe.config
+C:\Users\Silergytest\source\repos\Labeltest\Labeltest\bin\Debug\Labeltest.exe
+C:\Users\Silergytest\source\repos\Labeltest\Labeltest\bin\Debug\Labeltest.pdb
+C:\Users\Silergytest\source\repos\Labeltest\Labeltest\obj\Debug\Labeltest.csproj.AssemblyReference.cache
+C:\Users\Silergytest\source\repos\Labeltest\Labeltest\obj\Debug\Labeltest.Form1.resources
+C:\Users\Silergytest\source\repos\Labeltest\Labeltest\obj\Debug\Labeltest.Properties.Resources.resources
+C:\Users\Silergytest\source\repos\Labeltest\Labeltest\obj\Debug\Labeltest.csproj.GenerateResource.cache
+C:\Users\Silergytest\source\repos\Labeltest\Labeltest\obj\Debug\Labeltest.csproj.CoreCompileInputs.cache
+C:\Users\Silergytest\source\repos\Labeltest\Labeltest\obj\Debug\Labeltest.exe
+C:\Users\Silergytest\source\repos\Labeltest\Labeltest\obj\Debug\Labeltest.pdb
