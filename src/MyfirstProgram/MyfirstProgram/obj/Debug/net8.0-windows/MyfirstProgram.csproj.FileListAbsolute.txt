@@ -1,0 +1,17 @@
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\bin\Debug\net8.0-windows\MyfirstProgram.exe
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\bin\Debug\net8.0-windows\MyfirstProgram.deps.json
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\bin\Debug\net8.0-windows\MyfirstProgram.runtimeconfig.json
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\bin\Debug\net8.0-windows\MyfirstProgram.dll
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\bin\Debug\net8.0-windows\MyfirstProgram.pdb
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0-windows\MyfirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0-windows\MyfirstProgram.AssemblyInfoInputs.cache
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0-windows\MyfirstProgram.AssemblyInfo.cs
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0-windows\MyfirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0-windows\MyfirstProgram.dll
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0-windows\refint\MyfirstProgram.dll
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0-windows\MyfirstProgram.pdb
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0-windows\MyfirstProgram.genruntimeconfig.cache
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0-windows\ref\MyfirstProgram.dll
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0-windows\MyfirstProgram.csproj.GenerateResource.cache
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0-windows\MyfirstProgram.Form1.resources
+C:\Users\Silergytest\source\repos\MyfirstProgram\MyfirstProgram\obj\Debug\net8.0-windows\MyfirstProgram.MyForm.resources
